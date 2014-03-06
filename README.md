@@ -1,5 +1,5 @@
 testchat
 ========
 
-test golang roomchat
+test golang chatroom
 godsoul1986#gmail.com
